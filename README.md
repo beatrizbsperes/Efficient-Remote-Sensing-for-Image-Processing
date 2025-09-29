@@ -13,3 +13,16 @@ On this repository you'll find the notebooks used for practicing for the course 
     - Play with multi-image operators (NDVI extraction)
     
     You can find the notebook [here](task2_point_based_processing.ipynb).
+
+3. **Notebook 3**: For this new chapter we will focus on spatial operations, such as:
+    - For a given spatial operator, compare the ltering effect and CPU time when increasing the kernel size.
+    - For a given spatial operator, compare the ltering effect and CPU time for a 2D separable kernel and its 1D alternatives.
+    - Compare the results of different smoothing operators.
+    - Compare the results of different sharpening operators.
+    - Compare the results of different edge detection operators.
+    - Are smoothing/sharpening operators invertible?
+    - Compare the linear and nonlinear ltering operators.
+    - Propose separable implementations of nonlinear operators.
+    - Verify the ability of edge-preserving smoothing lters.
+    
+    You can find the notebook [here](task3_spatial_based_processing.ipynb).
