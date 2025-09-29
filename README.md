@@ -10,6 +10,6 @@ On this repository you'll find the notebooks used for practicing for the course 
     - Code the histogram equalization function
     - Check if `histeq(negative(image))==negative(histeq(image))`
     - Perform a contrast stretch clipping the 5% extrema
-    - Play with multi-image operators (e.g. NDVI extraction, change detection, RGB to gray)
+    - Play with multi-image operators (NDVI extraction)
     
     You can find the notebook [here](task2_point_based_processing.ipynb).
