@@ -13,3 +13,13 @@ On this repository you'll find the notebooks used for practicing for the course 
     - Play with multi-image operators (NDVI extraction)
     
     You can find the notebook [here](task2_point_based_processing.ipynb).
+
+3. **Notebook 3**: For this new chapter we will focus on spatial operations, such as:
+    - Code the correlation/convolution operator
+        - with loops, without relying on Python convolution function
+        - using functions available in Python (like `NumPy` and `SciPy`)
+    - Apply correlation/convolution with basic kernels
+        - `W = 0`, `W = Id`, `W = 1`
+        - `|W|` lower/greater/equal to 1, equal to 0 (with some `wi` negative)
+    
+    You can find the notebook [here](task3_spatial_based_processing.ipynb).
